@@ -15,6 +15,8 @@ Note my Serial # has been removed
  [Power Supply] [Corsair SF 600 W 80+ Platinum Certified Fully Modular SFX Power Supply]
 ```
 
+## EFI Folder structure
+
 ```
 /EFI/
 ├── APPLE
