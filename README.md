@@ -40,58 +40,16 @@ Note my Serial # has been removed
     │   └── OpenRuntime.efi
     ├── Kexts
     │   ├── AppleALC.kext
-    │   │   └── Contents
-    │   │       ├── Info.plist
-    │   │       └── MacOS
-    │   │           └── AppleALC
     │   ├── IntelBluetoothFirmware.kext
-    │   │   └── Contents
-    │   │       ├── Info.plist
-    │   │       └── MacOS
-    │   │           └── IntelBluetoothFirmware
     │   ├── IntelMausiEthernet.kext
-    │   │   └── Contents
-    │   │       ├── Info.plist
-    │   │       └── MacOS
-    │   │           └── IntelMausiEthernet
     │   ├── Lilu.kext
-    │   │   └── Contents
-    │   │       ├── Info.plist
-    │   │       └── MacOS
-    │   │           └── Lilu
     │   ├── NVMeFix.kext
-    │   │   └── Contents
-    │   │       ├── Info.plist
-    │   │       └── MacOS
-    │   │           └── NVMeFix
     │   ├── SMCLightSensor.kext
-    │   │   └── Contents
-    │   │       ├── Info.plist
-    │   │       └── MacOS
-    │   │           └── SMCLightSensor
     │   ├── SMCProcessor.kext
-    │   │   └── Contents
-    │   │       ├── Info.plist
-    │   │       └── MacOS
-    │   │           └── SMCProcessor
     │   ├── SMCSuperIO.kext
-    │   │   └── Contents
-    │   │       ├── Info.plist
-    │   │       └── MacOS
-    │   │           └── SMCSuperIO
     │   ├── USBMap.kext
-    │   │   └── Contents
-    │   │       └── Info.plist
     │   ├── VirtualSMC.kext
-    │   │   └── Contents
-    │   │       ├── Info.plist
-    │   │       └── MacOS
-    │   │           └── VirtualSMC
     │   └── WhateverGreen.kext
-    │       └── Contents
-    │           ├── Info.plist
-    │           └── MacOS
-    │               └── WhateverGreen
     ├── OpenCore.efi
     ├── Resources
     │   ├── Audio
